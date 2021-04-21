@@ -68,6 +68,6 @@ public class MainActivity extends AppCompatActivity {
                 alertDialog.show();
             }
         });
-        webview.loadUrl("http://mercandes.epizy.com/");
+        webview.loadUrl("http://www.storeandes.epizy.com//");
     }
 }
